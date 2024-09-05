@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a data analysis project conducted by [Ayush Shrestha](https://www.linkedin.com/in/ayush-yoshi-shrestha/), as part of a team project for BUS AN 512 for University Washington MSBA program.
+This is a data analysis project conducted by [Ayush Shrestha](https://www.linkedin.com/in/ayush-yoshi-shrestha/), as part of a team project for BUS AN 512 for the University of Washington MSBA program.
 
 The project analyzes a synthetic dataset (originally retrieved from Kaggle [here](https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset)) of Netflix customer records.
 The analysis was performed using MySQL and Power BI, consisting of exploratory data analysis and data visualizations to investigate the different retention rates and usage patterns of Netflix customers.
