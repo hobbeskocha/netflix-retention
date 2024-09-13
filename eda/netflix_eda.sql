@@ -82,7 +82,7 @@ having avg(age) < (
 	from netflixusers
 );
 
--- for each country, which subscription type is most common --> in-progress
+-- for each country, which subscription type is most common
 with overall_sub_counts as (
 	select country, Subscription_Type, count(*) as subscription_count
 	from netflixusers
