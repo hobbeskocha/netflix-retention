@@ -42,7 +42,7 @@ Exploratory Data Analysis (EDA) was conducted using MySQL to examine the distrib
 
 - geographic region
 - subscription plan
-- preferred device type.
+- preferred device type
 
 Additionally, descriptive statistics, including ranges and averages, were calculated for various segments to assess data spread and central tendencies. This preliminary analysis provided a comprehensive overview of the dataset, positioning us to proceed with an in-depth analysis of customer retention rates.
 
@@ -50,9 +50,9 @@ Additionally, descriptive statistics, including ranges and averages, were calcul
 
 Focusing on retention rates, we first assumed that a last payment date before December 2023 indicates an inactive account i.e., the customer has likely churned and unsubscribed. With this assumption, Common Table Expressions (CTEs) and CASE statements were utilized to group the data more effectively. This included:
 
-- organizing individual countries into their respective continents
-- segmenting customers into age buckets
-- creating a binary "active" column to indicate whether a customer is currently active (1) or inactive (0)
+- _Continent Mapping_: organizing individual countries into their respective continents
+- _Age Bucketing_: segmenting customers into age buckets
+- _Defining Active Status_: creating a binary "active" column to indicate whether a customer is currently active (1) or inactive (0)
 
 From there we could compare the active customer count against the total, enabling the calculation of retention rates across various segments. Additionally, a secondary result set was generated to analyze the relationship between a customer's "active" status and their subscription tenure (length of time subscribed to Netflix). This would aid in uncovering insights into how customer loyalty, measured by years of subscription, impacts retention rates.
 
@@ -60,4 +60,14 @@ The results from these queries were exported to CSV files and uploaded into Powe
 
 ## Findings & Recommendations
 
-While the data contains a wealth of insights, one of the most noteworthy is that North American (NA) customers aged 41-50, which comprise 35% of the NA market, have a 5% lower retention rate, suggesting the opportunity for a 1.75% retention increase through targeted marketing.
+Among the key insights from the analysis, one of the most noteworthy is that North American (NA) customers aged 41-50, who make up 35% of the NA market, exhibit a 5% lower retention rate compared to the rest of their cohort. In contrast, no similar trend is observed in the European market (the next most similar market in terms of size), indicating this is a unique phenomenon specific to NA. This insight is visually represented in the dashboard screenshot below, and is also available in the Power BI workbook for further review:
+
+![NA-customer-opportunity](artifacts/NA-customer-retention-opp.png)
+
+To address the retention gap in this cohort, Netflix should focus on targeted marketing efforts aimed at raising retention rates to at least the market average, which would yield an increase of 1.75% overall. Potential strategies include:
+
+- _UX Enhancement for Families_: Optimizing the platform’s user experience for family viewing. Given that many customers in the 41-50 age bracket likely have young to adolescent children, Netflix could enhance features such as robust, intuitive parental controls and personalized content recommendations for family-friendly viewing. While these features are common on many platforms, Netflix could leverage its years of expertise in delivering an exceptional user experience to offer a more seamless, sophisticated interface, setting itself apart from competitors.
+
+- _Must-Watch Lists_: Developing curated playlists of must-watch movies and shows that resonate with this generation. By tapping into Netflix’s extensive library, the platform could highlight movies and TV shows that North American customers in this age group grew up with and would enjoy revisiting. By evoking nostalgia, Netflix can strengthen engagement in a way that other competing platforms might struggle to replicate due to their relatively smaller content libraries.
+
+By leveraging its vast data resources, Netflix can adopt a data-driven approach to identify key trends, tailor strategies to meet customer needs, and optimize its offerings. This approach will enhance customer retention and further solidify Netflix's position as a market leader in the entertainment streaming industry.
