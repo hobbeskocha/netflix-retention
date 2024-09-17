@@ -1,6 +1,7 @@
 # Improving Customer Retention for Netflix
 
 ## Overview
+![streaming](artifacts/streaming.png)
 
 This is a data analysis project (focussed on MySQL and Power BI) conducted by [Ayush Shrestha](https://www.linkedin.com/in/ayush-yoshi-shrestha/), as part of a team project for BUS AN 512 (Data Management and Visualization) for the University of Washington's Master of Science in Business Analytics program. Other team contributors include
 [Hyewon Jeong](https://www.linkedin.com/in/jeonghyewon/),
