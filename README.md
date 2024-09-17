@@ -25,7 +25,7 @@ The dataset consists of approximately 2,500 synthetic records of Netflix custome
 - age
 - preferred device type
 
-Since the data is synthetic, it is already clean, not requiring any additional preprocessing before analysis. This allows us to jump directly into deriving insights from the dataset.
+Since the data is synthetic, it is already very clean, requiring minimal preprocessing before analysis. This allows us to jump directly into deriving insights from the dataset.
 
 ## Pre-processing
 
