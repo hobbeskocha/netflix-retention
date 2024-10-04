@@ -8,7 +8,7 @@ from netflixusers
 where Last_Payment_Date > '2023-12-31';
 
 -- how many subscribers for each subscription type
-select Subscription_Type, count(Subscription_Type) as num_subscibers
+select Subscription_Type, count(Subscription_Type) as num_subscribers
 from netflixusers
 group by Subscription_Type;
 
@@ -38,7 +38,7 @@ order by country;
 select device, country, count(*) as customer_count
 from netflixusers
 group by device, country
-order by device, customer_count desc;
+order by device, country desc;
 
 -- revenue generated from each customer, assuming the same plan since they joined
 select user_id, Monthly_Revenue * Last_Payment_Date - Join_Date as rev_per_customer
