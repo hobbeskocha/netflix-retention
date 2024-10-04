@@ -1,0 +1,41 @@
+device,country,customer_count
+Laptop,"United States",121
+Laptop,"United Kingdom",44
+Laptop,Spain,107
+Laptop,Mexico,44
+Laptop,Italy,50
+Laptop,Germany,63
+Laptop,France,52
+Laptop,Canada,64
+Laptop,Brazil,44
+Laptop,Australia,47
+"Smart TV","United States",116
+"Smart TV","United Kingdom",40
+"Smart TV",Spain,126
+"Smart TV",Mexico,41
+"Smart TV",Italy,46
+"Smart TV",Germany,42
+"Smart TV",France,43
+"Smart TV",Canada,78
+"Smart TV",Brazil,40
+"Smart TV",Australia,38
+Smartphone,"United States",99
+Smartphone,"United Kingdom",54
+Smartphone,Spain,102
+Smartphone,Mexico,46
+Smartphone,Italy,47
+Smartphone,Germany,36
+Smartphone,France,47
+Smartphone,Canada,80
+Smartphone,Brazil,55
+Smartphone,Australia,55
+Tablet,"United States",115
+Tablet,"United Kingdom",45
+Tablet,Spain,116
+Tablet,Mexico,52
+Tablet,Italy,40
+Tablet,Germany,42
+Tablet,France,41
+Tablet,Canada,95
+Tablet,Brazil,44
+Tablet,Australia,43

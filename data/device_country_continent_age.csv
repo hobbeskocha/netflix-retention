@@ -1,0 +1,1102 @@
+user_id,device,country,continent,age_bucket,active
+806,Laptop,"United States","North America",0-30,1
+61,Laptop,"United States","North America",0-30,0
+1787,Laptop,Brazil,"South America",0-30,0
+578,Laptop,"United States","North America",0-30,1
+2129,Laptop,Australia,Australia,0-30,0
+1632,Laptop,Canada,"North America",0-30,0
+2443,Laptop,"United Kingdom",Europe,0-30,0
+1464,Laptop,Canada,"North America",0-30,0
+1623,Laptop,Mexico,"North America",0-30,0
+442,Laptop,Canada,"North America",0-30,1
+2010,Laptop,Germany,Europe,0-30,0
+273,Laptop,"United Kingdom",Europe,0-30,1
+1967,Laptop,Brazil,"South America",0-30,0
+17,Laptop,Brazil,"South America",0-30,1
+1412,Laptop,Brazil,"South America",0-30,0
+1503,Laptop,Mexico,"North America",0-30,0
+21,Laptop,"United States","North America",0-30,0
+49,Laptop,Spain,Europe,0-30,1
+635,Laptop,Italy,Europe,0-30,1
+339,Laptop,Spain,Europe,0-30,1
+711,Laptop,Spain,Europe,0-30,1
+1737,Laptop,Canada,"North America",0-30,0
+2055,Laptop,Germany,Europe,0-30,0
+1724,Laptop,Australia,Australia,0-30,0
+314,Laptop,Australia,Australia,0-30,1
+695,Laptop,Italy,Europe,0-30,1
+2034,Laptop,Canada,"North America",0-30,0
+1363,Laptop,"United Kingdom",Europe,0-30,0
+2175,Laptop,Germany,Europe,0-30,0
+713,Laptop,"United States","North America",0-30,1
+420,Laptop,Italy,Europe,0-30,1
+1339,Laptop,Spain,Europe,0-30,0
+626,Laptop,"United States","North America",0-30,1
+691,Laptop,France,Europe,0-30,1
+499,Laptop,Spain,Europe,0-30,1
+531,Laptop,Spain,Europe,0-30,1
+825,Laptop,Germany,Europe,0-30,1
+138,Laptop,Mexico,"North America",0-30,1
+581,Laptop,"United States","North America",0-30,1
+269,Laptop,Spain,Europe,0-30,1
+320,Laptop,Italy,Europe,0-30,1
+151,Laptop,"United States","North America",0-30,1
+154,Laptop,Australia,Australia,0-30,1
+163,Laptop,"United Kingdom",Europe,0-30,1
+589,Laptop,Spain,Europe,0-30,1
+568,Laptop,"United Kingdom",Europe,0-30,1
+745,Laptop,"United States","North America",0-30,1
+182,Laptop,Canada,"North America",0-30,1
+250,Laptop,Italy,Europe,0-30,1
+251,Laptop,"United States","North America",0-30,1
+1686,Laptop,Spain,Europe,31-40,0
+41,Laptop,"United States","North America",31-40,0
+2115,Laptop,Germany,Europe,31-40,0
+616,Laptop,France,Europe,31-40,1
+1621,Laptop,France,Europe,31-40,0
+2103,Laptop,Mexico,"North America",31-40,0
+811,Laptop,France,Europe,31-40,1
+2085,Laptop,Germany,Europe,31-40,0
+953,Laptop,"United States","North America",31-40,1
+2059,Laptop,Spain,Europe,31-40,0
+313,Laptop,"United Kingdom",Europe,31-40,1
+1605,Laptop,Germany,Europe,31-40,0
+839,Laptop,Australia,Australia,31-40,1
+449,Laptop,Spain,Europe,31-40,1
+757,Laptop,Spain,Europe,31-40,1
+805,Laptop,"United States","North America",31-40,1
+2498,Laptop,"United States","North America",31-40,0
+82,Laptop,Canada,"North America",31-40,1
+1920,Laptop,Germany,Europe,31-40,0
+1861,Laptop,France,Europe,31-40,0
+85,Laptop,Germany,Europe,31-40,1
+434,Laptop,Australia,Australia,31-40,1
+681,Laptop,Spain,Europe,31-40,1
+486,Laptop,France,Europe,31-40,1
+798,Laptop,Mexico,"North America",31-40,1
+426,Laptop,France,Europe,31-40,1
+337,Laptop,Brazil,"South America",31-40,1
+336,Laptop,France,Europe,31-40,1
+100,Laptop,Italy,Europe,31-40,1
+945,Laptop,Germany,Europe,31-40,1
+103,Laptop,"United Kingdom",Europe,31-40,1
+104,Laptop,Australia,Australia,31-40,1
+700,Laptop,"United States","North America",31-40,1
+504,Laptop,Canada,"North America",31-40,1
+2482,Laptop,Spain,Europe,31-40,0
+2481,Laptop,Spain,Europe,31-40,0
+822,Laptop,Canada,"North America",31-40,1
+8,Laptop,Mexico,"North America",31-40,1
+112,Laptop,Canada,"North America",31-40,1
+905,Laptop,Italy,Europe,31-40,1
+1306,Laptop,France,Europe,31-40,0
+835,Laptop,"United States","North America",31-40,1
+2409,Laptop,Canada,"North America",31-40,0
+899,Laptop,Australia,Australia,31-40,1
+2325,Laptop,Germany,Europe,31-40,0
+821,Laptop,"United States","North America",31-40,1
+532,Laptop,Spain,Europe,31-40,1
+897,Laptop,Canada,"North America",31-40,1
+1342,Laptop,Spain,Europe,31-40,0
+293,Laptop,"United Kingdom",Europe,31-40,1
+674,Laptop,Australia,Australia,31-40,1
+690,Laptop,Germany,Europe,31-40,1
+1198,Laptop,"United Kingdom",Europe,31-40,0
+388,Laptop,Mexico,"North America",31-40,1
+727,Laptop,Spain,Europe,31-40,1
+1758,Laptop,Mexico,"North America",31-40,0
+480,Laptop,Italy,Europe,31-40,1
+447,Laptop,Brazil,"South America",31-40,1
+785,Laptop,Italy,Europe,31-40,1
+377,Laptop,Brazil,"South America",31-40,1
+275,Laptop,Germany,Europe,31-40,1
+887,Laptop,Brazil,"South America",31-40,1
+2323,Laptop,"United Kingdom",Europe,31-40,0
+374,Laptop,Australia,Australia,31-40,1
+194,Laptop,Australia,Australia,31-40,1
+728,Laptop,"United States","North America",31-40,1
+562,Laptop,Spain,Europe,31-40,1
+145,Laptop,Germany,Europe,31-40,1
+783,Laptop,Mexico,"North America",31-40,1
+743,Laptop,"United States","North America",31-40,1
+703,Laptop,"United Kingdom",Europe,31-40,1
+2315,Laptop,Italy,Europe,31-40,0
+242,Laptop,Canada,"North America",31-40,1
+2301,Laptop,Spain,Europe,31-40,0
+1077,Laptop,Canada,"North America",31-40,1
+2254,Laptop,Spain,Europe,31-40,0
+1063,Laptop,"United Kingdom",Europe,31-40,0
+243,Laptop,"United Kingdom",Europe,31-40,1
+1015,Laptop,"United States","North America",31-40,1
+367,Laptop,Brazil,"South America",31-40,1
+863,Laptop,"United States","North America",31-40,1
+162,Laptop,Canada,"North America",31-40,1
+466,Laptop,France,Europe,31-40,1
+500,Laptop,Italy,Europe,31-40,1
+365,Laptop,Germany,Europe,31-40,1
+25,Laptop,Germany,Europe,31-40,1
+478,Laptop,Mexico,"North America",31-40,1
+362,Laptop,Canada,"North America",31-40,1
+361,Laptop,"United States","North America",31-40,1
+1108,Laptop,"United Kingdom",Europe,31-40,0
+29,Laptop,Spain,Europe,31-40,1
+569,Laptop,Australia,Australia,31-40,1
+858,Laptop,Mexico,"North America",31-40,1
+354,Laptop,Australia,Australia,31-40,1
+318,Laptop,Mexico,"North America",31-40,1
+2232,Laptop,Canada,"North America",31-40,0
+451,Laptop,"United States","North America",31-40,1
+352,Laptop,Canada,"North America",31-40,1
+2189,Laptop,Australia,Australia,31-40,0
+767,Laptop,Brazil,"South America",31-40,1
+476,Laptop,France,Europe,31-40,1
+577,Laptop,Spain,Europe,31-40,1
+280,Laptop,Italy,Europe,31-40,1
+465,Laptop,Germany,Europe,31-40,1
+705,Laptop,Germany,Europe,31-40,1
+763,Laptop,"United Kingdom",Europe,31-40,1
+639,Laptop,Canada,"North America",31-40,1
+735,Laptop,Germany,Europe,31-40,1
+170,Laptop,Italy,Europe,31-40,1
+819,Laptop,Canada,"North America",41-50,0
+1757,Laptop,Brazil,"South America",41-50,0
+441,Laptop,"United States","North America",41-50,1
+33,Laptop,"United Kingdom",Europe,41-50,1
+1690,Laptop,"United States","North America",41-50,0
+37,Laptop,Brazil,"South America",41-50,1
+45,Laptop,Germany,Europe,41-50,1
+53,Laptop,"United Kingdom",Europe,41-50,1
+57,Laptop,Brazil,"South America",41-50,1
+1616,Laptop,"United States","North America",41-50,0
+1585,Laptop,"United States","North America",41-50,0
+1481,Laptop,"United States","North America",41-50,0
+1480,Laptop,"United States","North America",41-50,0
+79,Laptop,Spain,Europe,41-50,1
+1362,Laptop,Canada,"North America",41-50,0
+1361,Laptop,"United States","North America",41-50,0
+105,Laptop,Germany,Europe,41-50,1
+515,Laptop,Italy,Europe,41-50,1
+1338,Laptop,Mexico,"North America",41-50,0
+787,Laptop,Spain,Europe,41-50,1
+115,Laptop,Germany,Europe,41-50,1
+1290,Laptop,Germany,Europe,41-50,0
+1268,Laptop,"United States","North America",41-50,0
+1256,Laptop,"United States","North America",41-50,0
+124,Laptop,Australia,Australia,41-50,1
+126,Laptop,France,Europe,41-50,1
+131,Laptop,"United States","North America",41-50,1
+341,Laptop,"United States","North America",41-50,1
+137,Laptop,Brazil,"South America",41-50,0
+1155,Laptop,Germany,Europe,41-50,1
+147,Laptop,Brazil,"South America",41-50,1
+450,Laptop,Italy,Europe,41-50,1
+150,Laptop,Italy,Europe,41-50,1
+1051,Laptop,France,Europe,41-50,1
+780,Laptop,Germany,Europe,41-50,1
+166,Laptop,France,Europe,41-50,1
+175,Laptop,Germany,Europe,41-50,1
+977,Laptop,Brazil,"South America",41-50,1
+178,Laptop,Mexico,"North America",41-50,1
+187,Laptop,Brazil,"South America",41-50,1
+452,Laptop,Canada,"North America",41-50,1
+191,Laptop,"United States","North America",41-50,1
+193,Laptop,"United Kingdom",Europe,41-50,1
+198,Laptop,Mexico,"North America",41-50,1
+762,Laptop,Canada,"North America",41-50,0
+965,Laptop,Italy,Europe,41-50,1
+758,Laptop,"United States","North America",41-50,1
+209,Laptop,Spain,Europe,41-50,1
+210,Laptop,Italy,Europe,41-50,1
+915,Laptop,Germany,Europe,41-50,1
+907,Laptop,Spain,Europe,41-50,1
+903,Laptop,Mexico,"North America",41-50,1
+888,Laptop,Mexico,"North America",41-50,1
+234,Laptop,Australia,Australia,41-50,1
+235,Laptop,Germany,Europe,41-50,1
+851,Laptop,"United States","North America",41-50,1
+754,Laptop,Spain,Europe,41-50,1
+464,Laptop,Australia,Australia,41-50,1
+257,Laptop,Brazil,"South America",41-50,1
+267,Laptop,Brazil,"South America",41-50,1
+271,Laptop,"United States","North America",41-50,1
+342,Laptop,Canada,"North America",41-50,1
+279,Laptop,Spain,Europe,41-50,1
+285,Laptop,Germany,Europe,41-50,1
+286,Laptop,France,Europe,41-50,1
+659,Laptop,Australia,Australia,41-50,1
+292,Laptop,Canada,"North America",41-50,1
+294,Laptop,Australia,Australia,41-50,1
+295,Laptop,Germany,Europe,41-50,1
+751,Laptop,France,Europe,41-50,1
+646,Laptop,France,Europe,41-50,1
+467,Laptop,Brazil,"South America",41-50,1
+597,Laptop,Canada,"North America",41-50,1
+595,Laptop,"United States","North America",41-50,1
+585,Laptop,Germany,Europe,41-50,1
+582,Laptop,Canada,"North America",41-50,1
+661,Laptop,France,Europe,41-50,1
+570,Laptop,Germany,Europe,41-50,1
+477,Laptop,Brazil,"South America",41-50,1
+560,Laptop,Italy,Europe,41-50,1
+375,Laptop,Germany,Europe,41-50,1
+378,Laptop,Mexico,"North America",41-50,1
+381,Laptop,"United States","North America",41-50,1
+551,Laptop,"United States","North America",41-50,1
+645,Laptop,Germany,Europe,41-50,1
+726,Laptop,Spain,Europe,41-50,1
+390,Laptop,Italy,Europe,41-50,1
+391,Laptop,"United States","North America",41-50,1
+724,Laptop,Spain,Europe,41-50,1
+395,Laptop,Germany,Europe,41-50,1
+644,Laptop,Australia,Australia,41-50,1
+400,Laptop,Italy,Europe,41-50,1
+401,Laptop,"United States","North America",41-50,1
+535,Laptop,"United States","North America",41-50,1
+716,Laptop,"United States","North America",41-50,1
+529,Laptop,Spain,Europe,41-50,1
+715,Laptop,"United States","North America",41-50,1
+412,Laptop,Canada,"North America",41-50,1
+414,Laptop,Australia,Australia,41-50,1
+526,Laptop,France,Europe,41-50,1
+679,Laptop,Spain,Europe,41-50,1
+680,Laptop,Italy,Europe,41-50,1
+640,Laptop,"United States","North America",41-50,1
+1791,Laptop,Spain,Europe,41-50,0
+1806,Laptop,Spain,Europe,41-50,0
+1827,Laptop,Canada,"North America",41-50,0
+1828,Laptop,"United Kingdom",Europe,41-50,0
+1848,Laptop,Mexico,"North America",41-50,0
+1859,Laptop,Australia,Australia,41-50,0
+1860,Laptop,Germany,Europe,41-50,0
+1895,Laptop,Italy,Europe,41-50,0
+1896,Laptop,Spain,Europe,41-50,0
+1954,Laptop,Spain,Europe,41-50,0
+2022,Laptop,Canada,"North America",41-50,0
+2039,Laptop,Australia,Australia,41-50,0
+2045,Laptop,Italy,Europe,41-50,0
+2068,Laptop,"United Kingdom",Europe,41-50,0
+2072,Laptop,Brazil,"South America",41-50,0
+2092,Laptop,Spain,Europe,41-50,0
+2219,Laptop,Australia,Australia,41-50,0
+2226,Laptop,Spain,Europe,41-50,0
+2243,Laptop,"United States","North America",41-50,0
+2253,Laptop,Mexico,"North America",41-50,0
+2303,Laptop,"United States","North America",41-50,0
+2335,Laptop,"United States","North America",41-50,0
+2480,Laptop,Italy,Europe,41-50,0
+586,Laptop,France,Europe,51-60,1
+429,Laptop,Spain,Europe,51-60,1
+733,Laptop,"United Kingdom",Europe,51-60,1
+613,Laptop,"United Kingdom",Europe,51-60,1
+1434,Laptop,Canada,"North America",51-60,0
+4,Laptop,Australia,Australia,51-60,1
+1619,Laptop,Australia,Australia,51-60,0
+483,"Smart TV","United Kingdom",Europe,0-30,1
+981,"Smart TV",Spain,Europe,0-30,1
+660,"Smart TV",Germany,Europe,0-30,1
+773,"Smart TV","United States","North America",0-30,1
+596,"Smart TV","United States","North America",0-30,1
+431,"Smart TV","United States","North America",0-30,1
+307,"Smart TV",Brazil,"South America",0-30,1
+650,"Smart TV",Italy,Europe,0-30,1
+545,"Smart TV",Italy,Europe,0-30,1
+1011,"Smart TV",Spain,Europe,0-30,1
+1220,"Smart TV",Italy,Europe,0-30,0
+607,"Smart TV",Spain,Europe,0-30,1
+618,"Smart TV",Mexico,"North America",0-30,1
+392,"Smart TV",Canada,"North America",0-30,1
+1178,"Smart TV","United States","North America",0-30,0
+875,"Smart TV",Italy,Europe,0-30,1
+536,"Smart TV","United States","North America",0-30,1
+849,"Smart TV",Canada,"North America",0-30,1
+1270,"Smart TV","United States","North America",0-30,0
+380,"Smart TV",Italy,Europe,0-30,1
+121,"Smart TV","United States","North America",0-30,1
+261,"Smart TV","United States","North America",0-30,1
+120,"Smart TV",Italy,Europe,0-30,1
+506,"Smart TV","United States","North America",0-30,1
+108,"Smart TV",Mexico,"North America",0-30,1
+487,"Smart TV",Brazil,"South America",0-30,1
+911,"Smart TV","United States","North America",0-30,1
+142,"Smart TV",Canada,"North America",0-30,0
+1902,"Smart TV",Canada,"North America",0-30,0
+1903,"Smart TV","United Kingdom",Europe,0-30,0
+1919,"Smart TV",Australia,Australia,0-30,0
+1964,"Smart TV",Australia,Australia,0-30,0
+1978,"Smart TV","United Kingdom",Europe,0-30,0
+59,"Smart TV",Spain,Europe,0-30,1
+969,"Smart TV",Canada,"North America",0-30,1
+247,"Smart TV",Brazil,"South America",0-30,1
+2060,"Smart TV",Italy,Europe,0-30,0
+107,"Smart TV",Brazil,"South America",0-30,1
+1744,"Smart TV",Spain,Europe,0-30,0
+31,"Smart TV","United States","North America",0-30,0
+348,"Smart TV",Mexico,"North America",0-30,1
+1618,"Smart TV","United Kingdom",Europe,0-30,0
+2384,"Smart TV",Australia,Australia,0-30,0
+2395,"Smart TV","United States","North America",0-30,0
+2412,"Smart TV",Canada,"North America",0-30,0
+1776,"Smart TV",Spain,Europe,0-30,0
+6,"Smart TV",France,Europe,0-30,1
+2324,"Smart TV",Australia,Australia,0-30,0
+494,"Smart TV",Australia,Australia,31-40,1
+265,"Smart TV",Germany,Europe,31-40,1
+289,"Smart TV",Spain,Europe,31-40,1
+541,"Smart TV",France,Europe,31-40,1
+594,"Smart TV",Canada,"North America",31-40,1
+591,"Smart TV",Spain,Europe,31-40,1
+847,"Smart TV",Spain,Europe,31-40,1
+534,"Smart TV",Canada,"North America",31-40,1
+856,"Smart TV",France,Europe,31-40,1
+410,"Smart TV",Italy,Europe,31-40,1
+463,"Smart TV","United Kingdom",Europe,31-40,1
+239,"Smart TV",Spain,Europe,31-40,1
+677,"Smart TV",Brazil,"South America",31-40,1
+587,"Smart TV",Brazil,"South America",31-40,1
+417,"Smart TV",Brazil,"South America",31-40,1
+794,"Smart TV",Australia,Australia,31-40,1
+600,"Smart TV",Germany,Europe,31-40,1
+92,"Smart TV",Canada,"North America",31-40,1
+521,"Smart TV","United States","North America",31-40,1
+520,"Smart TV","United States","North America",31-40,1
+1393,"Smart TV","United Kingdom",Europe,31-40,0
+1408,"Smart TV","United Kingdom",Europe,31-40,0
+1411,"Smart TV",France,Europe,31-40,0
+435,"Smart TV",Germany,Europe,31-40,1
+517,"Smart TV",Spain,Europe,31-40,1
+176,"Smart TV",France,Europe,31-40,1
+438,"Smart TV",Mexico,"North America",31-40,1
+630,"Smart TV",Germany,Europe,31-40,1
+1795,"Smart TV","United States","North America",31-40,0
+329,"Smart TV",Spain,Europe,31-40,1
+330,"Smart TV",Italy,Europe,31-40,1
+880,"Smart TV","United States","North America",31-40,1
+228,"Smart TV",Mexico,"North America",31-40,1
+1858,"Smart TV","United Kingdom",Europe,31-40,0
+356,"Smart TV",France,Europe,31-40,1
+268,"Smart TV",Mexico,"North America",31-40,1
+769,"Smart TV",Spain,Europe,31-40,1
+461,"Smart TV","United States","North America",31-40,1
+941,"Smart TV","United States","North America",31-40,1
+358,"Smart TV",Mexico,"North America",31-40,1
+567,"Smart TV",Canada,"North America",31-40,1
+2016,"Smart TV",Spain,Europe,31-40,0
+1463,"Smart TV","United States","North America",31-40,0
+1930,"Smart TV","United States","North America",31-40,0
+664,"Smart TV",Spain,Europe,31-40,1
+281,"Smart TV","United States","North America",31-40,1
+443,"Smart TV","United Kingdom",Europe,31-40,1
+985,"Smart TV","United States","North America",31-40,1
+1987,"Smart TV",Spain,Europe,31-40,0
+2000,"Smart TV",Italy,Europe,31-40,0
+1515,"Smart TV",Germany,Europe,31-40,0
+490,"Smart TV",Italy,Europe,31-40,1
+1007,"Smart TV",Brazil,"South America",31-40,1
+759,"Smart TV",Canada,"North America",31-40,1
+2044,"Smart TV",Spain,Europe,31-40,0
+779,"Smart TV",Australia,Australia,31-40,1
+144,"Smart TV",Australia,Australia,31-40,1
+55,"Smart TV",Germany,Europe,31-40,1
+670,"Smart TV","United States","North America",31-40,1
+612,"Smart TV",Canada,"North America",31-40,1
+475,"Smart TV",Germany,Europe,31-40,1
+558,"Smart TV",Mexico,"North America",31-40,1
+276,"Smart TV",France,Europe,31-40,1
+2093,"Smart TV","United States","North America",31-40,0
+47,"Smart TV",Brazil,"South America",31-40,1
+2112,"Smart TV",Canada,"North America",31-40,0
+43,"Smart TV","United Kingdom",Europe,31-40,1
+1674,"Smart TV",Canada,"North America",31-40,0
+2156,"Smart TV","United States","North America",31-40,0
+35,"Smart TV",Germany,Europe,31-40,1
+2185,"Smart TV","United States","North America",31-40,0
+1723,"Smart TV","United Kingdom",Europe,31-40,0
+765,"Smart TV",Germany,Europe,31-40,1
+575,"Smart TV",Italy,Europe,31-40,1
+553,"Smart TV","United Kingdom",Europe,31-40,1
+707,"Smart TV",Brazil,"South America",31-40,1
+2244,"Smart TV",Canada,"North America",31-40,0
+2245,"Smart TV","United States","North America",31-40,0
+2246,"Smart TV","United States","North America",31-40,0
+573,"Smart TV",Mexico,"North America",31-40,1
+488,"Smart TV",Mexico,"North America",31-40,1
+186,"Smart TV",France,Europe,31-40,1
+571,"Smart TV",France,Europe,31-40,1
+19,"Smart TV",Spain,Europe,31-40,1
+2318,"Smart TV","United States","North America",31-40,0
+15,"Smart TV",Germany,Europe,31-40,1
+647,"Smart TV",Brazil,"South America",31-40,1
+1766,"Smart TV","United States","North America",31-40,0
+351,"Smart TV","United States","North America",31-40,1
+689,"Smart TV",Australia,Australia,31-40,1
+2389,"Smart TV",Spain,Europe,31-40,0
+657,"Smart TV",Canada,"North America",31-40,1
+2405,"Smart TV",Italy,Europe,31-40,0
+439,"Smart TV",Spain,Europe,31-40,1
+481,"Smart TV","United States","North America",31-40,1
+546,"Smart TV",Spain,Europe,31-40,1
+2460,"Smart TV",Germany,Europe,31-40,0
+975,"Smart TV",Germany,Europe,31-40,1
+786,"Smart TV",Spain,Europe,31-40,1
+129,"Smart TV",Spain,Europe,31-40,1
+2497,"Smart TV",Spain,Europe,31-40,0
+1788,"Smart TV",Mexico,"North America",41-50,0
+10,"Smart TV",Italy,Europe,41-50,0
+1793,"Smart TV","United States","North America",41-50,0
+23,"Smart TV","United Kingdom",Europe,41-50,1
+1805,"Smart TV",Italy,Europe,41-50,0
+816,"Smart TV",Spain,Europe,41-50,1
+1825,"Smart TV","United States","North America",41-50,0
+63,"Smart TV","United Kingdom",Europe,41-50,1
+67,"Smart TV",Brazil,"South America",41-50,1
+1834,"Smart TV",Spain,Europe,41-50,0
+792,"Smart TV",Canada,"North America",41-50,1
+1857,"Smart TV",Canada,"North America",41-50,0
+116,"Smart TV",France,Europe,41-50,1
+132,"Smart TV",Canada,"North America",41-50,1
+133,"Smart TV","United Kingdom",Europe,41-50,1
+135,"Smart TV",Germany,Europe,41-50,1
+136,"Smart TV",France,Europe,41-50,1
+149,"Smart TV",Spain,Europe,41-50,1
+621,"Smart TV",Spain,Europe,41-50,1
+188,"Smart TV",Mexico,"North America",41-50,1
+189,"Smart TV",Spain,Europe,41-50,1
+196,"Smart TV",France,Europe,41-50,1
+1927,"Smart TV",Spain,Europe,41-50,0
+1928,"Smart TV","United States","North America",41-50,0
+201,"Smart TV","United States","North America",41-50,1
+213,"Smart TV","United Kingdom",Europe,41-50,1
+217,"Smart TV",Brazil,"South America",41-50,1
+233,"Smart TV","United Kingdom",Europe,41-50,1
+245,"Smart TV",Germany,Europe,41-50,1
+254,"Smart TV",Australia,Australia,41-50,1
+1998,"Smart TV",Mexico,"North America",41-50,0
+1999,"Smart TV",Spain,Europe,41-50,0
+255,"Smart TV",Germany,Europe,41-50,1
+270,"Smart TV",Italy,Europe,41-50,1
+750,"Smart TV",Germany,Europe,41-50,1
+749,"Smart TV",Australia,Australia,41-50,1
+2037,"Smart TV",Canada,"North America",41-50,0
+747,"Smart TV",Canada,"North America",41-50,1
+2043,"Smart TV",Mexico,"North America",41-50,0
+305,"Smart TV",Germany,Europe,41-50,1
+741,"Smart TV",Spain,Europe,41-50,1
+333,"Smart TV","United Kingdom",Europe,41-50,1
+343,"Smart TV","United Kingdom",Europe,41-50,1
+345,"Smart TV",Germany,Europe,41-50,1
+2061,"Smart TV",Spain,Europe,41-50,0
+363,"Smart TV","United Kingdom",Europe,41-50,1
+364,"Smart TV",Australia,Australia,41-50,1
+366,"Smart TV",France,Europe,41-50,1
+2086,"Smart TV",France,Europe,41-50,0
+379,"Smart TV",Spain,Europe,41-50,1
+383,"Smart TV","United Kingdom",Europe,41-50,1
+389,"Smart TV",Spain,Europe,41-50,1
+418,"Smart TV",Mexico,"North America",41-50,1
+430,"Smart TV",Italy,Europe,41-50,1
+432,"Smart TV",Canada,"North America",41-50,1
+437,"Smart TV",Brazil,"South America",41-50,1
+2163,"Smart TV",Mexico,"North America",41-50,0
+710,"Smart TV",Italy,Europe,41-50,1
+2183,"Smart TV","United States","North America",41-50,0
+709,"Smart TV",Spain,Europe,41-50,1
+701,"Smart TV","United States","North America",41-50,1
+697,"Smart TV",Spain,Europe,41-50,1
+2225,"Smart TV",Italy,Europe,41-50,0
+1478,"Smart TV","United States","North America",41-50,0
+511,"Smart TV",France,Europe,41-50,1
+678,"Smart TV",Mexico,"North America",41-50,1
+530,"Smart TV",Italy,Europe,41-50,1
+668,"Smart TV","United States","North America",41-50,1
+584,"Smart TV",Australia,Australia,41-50,1
+599,"Smart TV",Australia,Australia,41-50,1
+601,"Smart TV",France,Europe,41-50,1
+658,"Smart TV","United Kingdom",Europe,41-50,1
+608,"Smart TV","United States","North America",41-50,1
+2314,"Smart TV",Spain,Europe,41-50,0
+615,"Smart TV",Germany,Europe,41-50,1
+837,"Smart TV",Canada,"North America",41-50,1
+2320,"Smart TV","United States","North America",41-50,0
+854,"Smart TV",Australia,Australia,41-50,1
+886,"Smart TV",France,Europe,41-50,1
+890,"Smart TV",Italy,Europe,41-50,1
+891,"Smart TV",Spain,Europe,41-50,1
+2366,"Smart TV","United States","North America",41-50,0
+929,"Smart TV",Australia,Australia,41-50,1
+1114,"Smart TV",Spain,Europe,41-50,0
+1134,"Smart TV",Canada,"North America",41-50,0
+1199,"Smart TV",Australia,Australia,41-50,0
+1248,"Smart TV",Mexico,"North America",41-50,0
+1255,"Smart TV","United States","North America",41-50,0
+1324,"Smart TV",Spain,Europe,41-50,0
+1477,"Smart TV",Spain,Europe,41-50,0
+2474,"Smart TV",Australia,Australia,41-50,0
+1483,"Smart TV","United Kingdom",Europe,41-50,0
+1550,"Smart TV",Italy,Europe,41-50,0
+1590,"Smart TV",Germany,Europe,41-50,0
+1703,"Smart TV","United States","North America",41-50,0
+850,"Smart TV","United States","North America",51-60,1
+427,"Smart TV",Brazil,"South America",51-60,1
+1759,"Smart TV",Spain,Europe,51-60,0
+382,"Smart TV",Canada,"North America",51-60,1
+122,"Smart TV",Canada,"North America",51-60,1
+216,"Smart TV",France,Europe,51-60,1
+2035,"Smart TV","United States","North America",51-60,0
+159,"Smart TV",Spain,Europe,51-60,1
+288,"Smart TV",Mexico,"North America",51-60,1
+2002,Smartphone,Spain,Europe,0-30,0
+809,Smartphone,Australia,Australia,0-30,1
+14,Smartphone,Australia,Australia,0-30,1
+244,Smartphone,Australia,Australia,0-30,1
+2106,Smartphone,Spain,Europe,0-30,0
+1762,Smartphone,Spain,Europe,0-30,0
+491,Smartphone,"United States","North America",0-30,1
+1830,Smartphone,Germany,Europe,0-30,0
+229,Smartphone,Spain,Europe,0-30,1
+347,Smartphone,Brazil,"South America",0-30,1
+403,Smartphone,"United Kingdom",Europe,0-30,1
+895,Smartphone,"United States","North America",0-30,1
+404,Smartphone,Australia,Australia,0-30,1
+791,Smartphone,"United States","North America",0-30,1
+901,Smartphone,France,Europe,0-30,1
+2084,Smartphone,Australia,Australia,0-30,0
+833,Smartphone,"United States","North America",0-30,1
+654,Smartphone,Canada,"North America",0-30,1
+619,Smartphone,Spain,Europe,0-30,1
+830,Smartphone,Italy,Europe,0-30,0
+34,Smartphone,Australia,Australia,0-30,1
+1388,Smartphone,"United States","North America",0-30,0
+2429,Smartphone,Australia,Australia,0-30,0
+260,Smartphone,Italy,Europe,0-30,1
+349,Smartphone,Spain,Europe,0-30,1
+368,Smartphone,Mexico,"North America",0-30,1
+86,Smartphone,France,Europe,0-30,1
+2427,Smartphone,Canada,"North America",0-30,0
+823,Smartphone,"United Kingdom",Europe,0-30,1
+815,Smartphone,Italy,Europe,0-30,1
+739,Smartphone,Spain,Europe,0-30,1
+177,Smartphone,Brazil,"South America",0-30,1
+611,Smartphone,"United States","North America",0-30,1
+167,Smartphone,Brazil,"South America",0-30,1
+2371,Smartphone,France,Europe,0-30,0
+1576,Smartphone,France,Europe,0-30,0
+752,Smartphone,Brazil,"South America",0-30,1
+1038,Smartphone,Mexico,"North America",0-30,0
+1736,Smartphone,"United States","North America",0-30,0
+259,Smartphone,Spain,Europe,0-30,1
+781,Smartphone,France,Europe,0-30,1
+26,Smartphone,France,Europe,0-30,1
+602,Smartphone,Brazil,"South America",0-30,1
+2302,Smartphone,Spain,Europe,0-30,0
+1487,Smartphone,Brazil,"South America",0-30,0
+311,Smartphone,"United States","North America",0-30,1
+326,Smartphone,France,Europe,0-30,1
+1514,Smartphone,Australia,Australia,0-30,0
+2015,Smartphone,Italy,Europe,0-30,0
+396,Smartphone,France,Europe,0-30,1
+2138,Smartphone,"United States","North America",31-40,0
+327,Smartphone,Brazil,"South America",31-40,1
+484,Smartphone,Australia,Australia,31-40,1
+2174,Smartphone,Australia,Australia,31-40,0
+699,Smartphone,Canada,"North America",31-40,1
+248,Smartphone,Mexico,"North America",31-40,1
+857,Smartphone,Brazil,"South America",31-40,1
+246,Smartphone,France,Europe,31-40,1
+321,Smartphone,"United States","North America",31-40,1
+588,Smartphone,Mexico,"North America",31-40,1
+319,Smartphone,Spain,Europe,31-40,1
+236,Smartphone,France,Europe,31-40,1
+592,Smartphone,Spain,Europe,31-40,1
+509,Smartphone,Australia,Australia,31-40,1
+2233,Smartphone,"United Kingdom",Europe,31-40,0
+224,Smartphone,Australia,Australia,31-40,1
+900,Smartphone,Germany,Europe,31-40,0
+223,Smartphone,"United Kingdom",Europe,31-40,1
+309,Smartphone,Spain,Europe,31-40,1
+746,Smartphone,"United States","North America",31-40,1
+304,Smartphone,Australia,Australia,31-40,1
+919,Smartphone,Spain,Europe,31-40,1
+297,Smartphone,Brazil,"South America",31-40,1
+937,Smartphone,Spain,Europe,31-40,1
+479,Smartphone,Spain,Europe,31-40,1
+2269,Smartphone,Spain,Europe,31-40,0
+954,Smartphone,Canada,"North America",31-40,1
+206,Smartphone,France,Europe,31-40,1
+2296,Smartphone,France,Europe,31-40,0
+2312,Smartphone,Brazil,"South America",31-40,0
+181,Smartphone,"United States","North America",31-40,1
+173,Smartphone,"United Kingdom",Europe,31-40,1
+777,Smartphone,Canada,"North America",31-40,1
+604,Smartphone,Spain,Europe,31-40,1
+502,Smartphone,Spain,Europe,31-40,1
+631,Smartphone,France,Europe,31-40,1
+1081,Smartphone,France,Europe,31-40,1
+1085,Smartphone,Italy,Europe,31-40,1
+148,Smartphone,Mexico,"North America",31-40,1
+493,Smartphone,"United Kingdom",Europe,31-40,1
+685,Smartphone,"United States","North America",31-40,1
+284,Smartphone,Australia,Australia,31-40,1
+649,Smartphone,Spain,Europe,31-40,1
+652,Smartphone,Spain,Europe,31-40,1
+2390,Smartphone,Italy,Europe,31-40,0
+1200,Smartphone,Germany,Europe,31-40,0
+272,Smartphone,Canada,"North America",31-40,1
+2410,Smartphone,"United States","North America",31-40,0
+683,Smartphone,"United States","North America",31-40,1
+2411,Smartphone,"United States","North America",31-40,0
+2435,Smartphone,Italy,Europe,31-40,0
+2442,Smartphone,Canada,"North America",31-40,0
+2454,Smartphone,Canada,"North America",31-40,0
+118,Smartphone,Mexico,"North America",31-40,1
+2456,Smartphone,"United States","North America",31-40,0
+827,Smartphone,Brazil,"South America",31-40,1
+831,Smartphone,Spain,Europe,31-40,1
+505,Smartphone,"United States","North America",31-40,1
+1325,Smartphone,Italy,Europe,31-40,0
+789,Smartphone,Canada,"North America",31-40,1
+1340,Smartphone,Italy,Europe,31-40,0
+93,Smartphone,"United Kingdom",Europe,31-40,1
+89,Smartphone,Spain,Europe,31-40,1
+800,Smartphone,Italy,Europe,31-40,1
+84,Smartphone,Australia,Australia,31-40,1
+1445,Smartphone,Italy,Europe,31-40,0
+802,Smartphone,Spain,Europe,31-40,1
+72,Smartphone,Canada,"North America",31-40,0
+1547,Smartphone,Brazil,"South America",31-40,0
+62,Smartphone,Canada,"North America",31-40,1
+58,Smartphone,Mexico,"North America",31-40,1
+810,Smartphone,Germany,Europe,31-40,1
+1620,Smartphone,Germany,Europe,31-40,0
+46,Smartphone,France,Europe,31-40,1
+42,Smartphone,Canada,"North America",31-40,1
+1653,Smartphone,Mexico,"North America",31-40,0
+38,Smartphone,Mexico,"North America",31-40,1
+814,Smartphone,Spain,Europe,31-40,1
+22,Smartphone,Canada,"North America",31-40,1
+1763,Smartphone,"United States","North America",31-40,0
+11,Smartphone,"United States","North America",31-40,0
+9,Smartphone,Spain,Europe,31-40,1
+5,Smartphone,Germany,Europe,31-40,1
+415,Smartphone,Germany,Europe,31-40,1
+1814,Smartphone,Australia,Australia,31-40,0
+409,Smartphone,Spain,Europe,31-40,1
+406,Smartphone,France,Europe,31-40,1
+1833,Smartphone,Mexico,"North America",31-40,0
+1847,Smartphone,Brazil,"South America",31-40,0
+533,Smartphone,"United States","North America",31-40,1
+537,Smartphone,Canada,"North America",31-40,1
+676,Smartphone,France,Europe,31-40,1
+1863,Smartphone,Mexico,"North America",31-40,0
+1864,Smartphone,Spain,Europe,31-40,0
+540,Smartphone,Germany,Europe,31-40,1
+1899,Smartphone,Canada,"North America",31-40,0
+723,Smartphone,Mexico,"North America",31-40,1
+1904,Smartphone,Australia,Australia,31-40,0
+1918,Smartphone,"United Kingdom",Europe,31-40,0
+543,Smartphone,Mexico,"North America",31-40,1
+397,Smartphone,Brazil,"South America",31-40,1
+673,Smartphone,"United Kingdom",Europe,31-40,1
+549,Smartphone,Canada,"North America",31-40,1
+384,Smartphone,Australia,Australia,31-40,1
+1969,Smartphone,Spain,Europe,31-40,0
+376,Smartphone,France,Europe,31-40,1
+1988,Smartphone,"United States","North America",31-40,0
+555,Smartphone,Germany,Europe,31-40,1
+556,Smartphone,France,Europe,31-40,1
+557,Smartphone,Brazil,"South America",31-40,1
+648,Smartphone,Mexico,"North America",31-40,1
+2038,Smartphone,"United Kingdom",Europe,31-40,0
+2042,Smartphone,Brazil,"South America",31-40,0
+564,Smartphone,Canada,"North America",31-40,1
+2050,Smartphone,"United States","North America",31-40,0
+357,Smartphone,Brazil,"South America",31-40,1
+2058,Smartphone,Mexico,"North America",31-40,0
+353,Smartphone,"United Kingdom",Europe,31-40,1
+574,Smartphone,Spain,Europe,31-40,1
+665,Smartphone,Italy,Europe,31-40,1
+2105,Smartphone,Italy,Europe,31-40,0
+841,Smartphone,France,Europe,41-50,1
+845,Smartphone,Italy,Europe,41-50,1
+258,Smartphone,Mexico,"North America",41-50,1
+249,Smartphone,Spain,Europe,41-50,1
+238,Smartphone,Mexico,"North America",41-50,1
+756,Smartphone,Spain,Europe,41-50,1
+462,Smartphone,Canada,"North America",41-50,1
+446,Smartphone,France,Europe,41-50,1
+225,Smartphone,Germany,Europe,41-50,1
+222,Smartphone,Canada,"North America",41-50,1
+219,Smartphone,Spain,Europe,41-50,1
+624,Smartphone,Canada,"North America",41-50,1
+688,Smartphone,"United Kingdom",Europe,41-50,1
+215,Smartphone,Germany,Europe,41-50,1
+207,Smartphone,Brazil,"South America",41-50,1
+967,Smartphone,Spain,Europe,41-50,1
+192,Smartphone,Canada,"North America",41-50,1
+158,Smartphone,Mexico,"North America",41-50,1
+156,Smartphone,France,Europe,41-50,1
+620,Smartphone,Italy,Europe,41-50,1
+141,Smartphone,"United States","North America",41-50,1
+140,Smartphone,Italy,Europe,41-50,1
+128,Smartphone,Mexico,"North America",41-50,1
+684,Smartphone,Canada,"North America",41-50,1
+125,Smartphone,Germany,Europe,41-50,1
+1247,Smartphone,Brazil,"South America",41-50,0
+444,Smartphone,Australia,Australia,41-50,1
+123,Smartphone,"United Kingdom",Europe,41-50,1
+1269,Smartphone,Canada,"North America",41-50,0
+119,Smartphone,Spain,Europe,41-50,1
+1305,Smartphone,Germany,Europe,41-50,0
+114,Smartphone,Australia,Australia,41-50,1
+1318,Smartphone,"United Kingdom",Europe,41-50,0
+436,Smartphone,France,Europe,41-50,1
+50,Smartphone,Italy,Europe,41-50,0
+2108,Smartphone,"United States","North America",41-50,0
+428,Smartphone,Mexico,"North America",41-50,1
+617,Smartphone,Brazil,"South America",41-50,1
+2125,Smartphone,"United States","North America",41-50,0
+722,Smartphone,Brazil,"South America",41-50,1
+542,Smartphone,Brazil,"South America",41-50,1
+2155,Smartphone,"United States","North America",41-50,0
+1832,Smartphone,Brazil,"South America",41-50,0
+497,Smartphone,Brazil,"South America",41-50,1
+528,Smartphone,Mexico,"North America",41-50,1
+70,Smartphone,Italy,Europe,41-50,0
+322,Smartphone,Canada,"North America",41-50,1
+18,Smartphone,Mexico,"North America",41-50,1
+729,Smartphone,Canada,"North America",41-50,1
+399,Smartphone,Spain,Europe,41-50,1
+287,Smartphone,Brazil,"South America",41-50,1
+370,Smartphone,Italy,Europe,41-50,1
+2231,Smartphone,"United States","North America",41-50,0
+593,Smartphone,"United States","North America",41-50,1
+369,Smartphone,Spain,Europe,41-50,1
+310,Smartphone,Italy,Europe,41-50,1
+30,Smartphone,Italy,Europe,41-50,0
+2036,Smartphone,"United States","North America",41-50,0
+423,Smartphone,"United Kingdom",Europe,41-50,1
+633,Smartphone,Mexico,"North America",41-50,1
+498,Smartphone,Mexico,"North America",41-50,1
+2264,Smartphone,Australia,Australia,41-50,0
+385,Smartphone,Germany,Europe,41-50,1
+2288,Smartphone,"United States","North America",41-50,0
+413,Smartphone,"United Kingdom",Europe,41-50,1
+290,Smartphone,Italy,Europe,41-50,1
+519,Smartphone,Canada,"North America",41-50,1
+501,Smartphone,Spain,Europe,41-50,1
+730,Smartphone,"United States","North America",41-50,1
+1482,Smartphone,Canada,"North America",41-50,0
+74,Smartphone,Australia,Australia,41-50,1
+359,Smartphone,Spain,Europe,41-50,1
+1897,Smartphone,Spain,Europe,41-50,0
+402,Smartphone,Canada,"North America",41-50,1
+1900,Smartphone,"United States","North America",41-50,0
+609,Smartphone,Canada,"North America",41-50,1
+2358,Smartphone,Mexico,"North America",41-50,0
+2365,Smartphone,"United States","North America",41-50,0
+433,Smartphone,"United Kingdom",Europe,41-50,1
+801,Smartphone,Spain,Europe,41-50,1
+83,Smartphone,"United Kingdom",Europe,41-50,1
+2386,Smartphone,France,Europe,41-50,0
+350,Smartphone,Italy,Europe,41-50,1
+2394,Smartphone,Canada,"North America",41-50,0
+1702,Smartphone,Spain,Europe,41-50,0
+2402,Smartphone,Brazil,"South America",41-50,0
+473,Smartphone,"United Kingdom",Europe,41-50,1
+1974,Smartphone,Canada,"North America",41-50,0
+1687,Smartphone,Spain,Europe,41-50,0
+1432,Smartphone,Spain,Europe,41-50,0
+1413,Smartphone,Mexico,"North America",41-50,0
+90,Smartphone,Italy,Europe,41-50,1
+813,Smartphone,Mexico,"North America",41-50,1
+2441,Smartphone,"United States","North America",41-50,0
+523,Smartphone,"United Kingdom",Europe,41-50,1
+753,Smartphone,Mexico,"North America",41-50,1
+2453,Smartphone,"United States","North America",41-50,0
+2091,Smartphone,Spain,Europe,41-50,0
+344,Smartphone,Australia,Australia,41-50,1
+340,Smartphone,Italy,Europe,41-50,1
+2464,Smartphone,Spain,Europe,41-50,0
+94,Smartphone,Australia,Australia,41-50,1
+736,Smartphone,France,Europe,41-50,1
+793,Smartphone,"United Kingdom",Europe,41-50,1
+742,Smartphone,Spain,Europe,51-60,1
+1494,Smartphone,Canada,"North America",51-60,0
+614,Smartphone,Australia,Australia,51-60,1
+264,Smartphone,Australia,Australia,51-60,1
+667,Smartphone,Spain,Europe,51-60,1
+548,Smartphone,"United States","North America",51-60,1
+731,Tablet,"United States","North America",0-30,1
+1654,Tablet,Spain,Europe,0-30,0
+1394,Tablet,Australia,Australia,0-30,0
+740,Tablet,Italy,Europe,0-30,1
+1876,Tablet,France,Europe,0-30,0
+771,Tablet,Spain,Europe,0-30,1
+775,Tablet,"United States","North America",0-30,1
+44,Tablet,Australia,Australia,0-30,1
+64,Tablet,Australia,Australia,0-30,1
+1433,Tablet,"United States","North America",0-30,0
+2316,Tablet,Spain,Europe,0-30,0
+97,Tablet,Brazil,"South America",0-30,1
+99,Tablet,Spain,Europe,0-30,1
+1451,Tablet,"United States","North America",0-30,0
+155,Tablet,Germany,Europe,0-30,1
+179,Tablet,Spain,Europe,0-30,1
+218,Tablet,Mexico,"North America",0-30,1
+2104,Tablet,Spain,Europe,0-30,0
+1926,Tablet,Spain,Europe,0-30,0
+220,Tablet,Italy,Europe,0-30,1
+923,Tablet,"United States","North America",0-30,1
+262,Tablet,Canada,"North America",0-30,1
+2385,Tablet,Germany,Europe,0-30,0
+274,Tablet,Australia,Australia,0-30,1
+1767,Tablet,Canada,"North America",0-30,0
+2128,Tablet,"United Kingdom",Europe,0-30,0
+291,Tablet,"United States","North America",0-30,1
+331,Tablet,"United States","North America",0-30,1
+416,Tablet,France,Europe,0-30,1
+1495,Tablet,"United States","North America",0-30,0
+422,Tablet,Canada,"North America",0-30,1
+424,Tablet,Australia,Australia,0-30,1
+458,Tablet,Mexico,"North America",0-30,1
+2178,Tablet,Mexico,"North America",0-30,0
+1534,Tablet,Spain,Europe,0-30,0
+2428,Tablet,"United Kingdom",Europe,0-30,0
+2184,Tablet,Canada,"North America",0-30,0
+485,Tablet,Germany,Europe,0-30,1
+503,Tablet,"United States","North America",0-30,1
+1826,Tablet,"United States","North America",0-30,0
+539,Tablet,Australia,Australia,0-30,1
+550,Tablet,"United States","North America",0-30,1
+598,Tablet,"United Kingdom",Europe,0-30,1
+610,Tablet,"United States","North America",0-30,1
+883,Tablet,"United Kingdom",Europe,0-30,1
+168,Tablet,Mexico,"North America",0-30,1
+2465,Tablet,Italy,Europe,0-30,0
+1019,Tablet,Australia,Australia,0-30,1
+669,Tablet,Canada,"North America",0-30,1
+687,Tablet,Canada,"North America",0-30,1
+2247,Tablet,Canada,"North America",0-30,0
+1376,Tablet,"United States","North America",0-30,0
+725,Tablet,Italy,Europe,0-30,1
+641,Tablet,"United States","North America",31-40,1
+848,Tablet,"United States","North America",31-40,0
+2475,Tablet,Germany,Europe,31-40,0
+1722,Tablet,Canada,"North America",31-40,0
+666,Tablet,Spain,Europe,31-40,1
+174,Tablet,Australia,Australia,31-40,1
+1760,Tablet,Italy,Europe,31-40,0
+853,Tablet,"United Kingdom",Europe,31-40,1
+547,Tablet,Spain,Europe,31-40,1
+277,Tablet,Brazil,"South America",31-40,1
+675,Tablet,Germany,Europe,31-40,1
+538,Tablet,"United Kingdom",Europe,31-40,1
+1317,Tablet,Canada,"North America",31-40,0
+755,Tablet,Italy,Europe,31-40,1
+2116,Tablet,France,Europe,31-40,0
+211,Tablet,"United States","North America",31-40,1
+208,Tablet,Mexico,"North America",31-40,1
+1794,Tablet,Canada,"North America",31-40,0
+202,Tablet,Canada,"North America",31-40,1
+1343,Tablet,"United States","North America",31-40,0
+190,Tablet,Italy,Europe,31-40,1
+183,Tablet,"United Kingdom",Europe,31-40,1
+524,Tablet,Australia,Australia,31-40,1
+522,Tablet,Canada,"North America",31-40,1
+1409,Tablet,Australia,Australia,31-40,0
+518,Tablet,"United States","North America",31-40,1
+152,Tablet,Canada,"North America",31-40,1
+1829,Tablet,Australia,Australia,31-40,0
+514,Tablet,Spain,Europe,31-40,1
+146,Tablet,France,Europe,31-40,1
+512,Tablet,Brazil,"South America",31-40,1
+892,Tablet,Spain,Europe,31-40,1
+686,Tablet,"United States","North America",31-40,1
+134,Tablet,Australia,Australia,31-40,1
+113,Tablet,"United Kingdom",Europe,31-40,1
+2250,Tablet,Germany,Europe,31-40,0
+111,Tablet,"United States","North America",31-40,1
+109,Tablet,Spain,Europe,31-40,1
+693,Tablet,Mexico,"North America",31-40,1
+1862,Tablet,Brazil,"South America",31-40,0
+472,Tablet,Canada,"North America",31-40,1
+2260,Tablet,"United States","North America",31-40,0
+1868,Tablet,"United States","North America",31-40,0
+470,Tablet,Italy,Europe,31-40,1
+98,Tablet,Mexico,"North America",31-40,1
+1884,Tablet,Canada,"North America",31-40,0
+917,Tablet,Brazil,"South America",31-40,1
+797,Tablet,Brazil,"South America",31-40,1
+91,Tablet,"United States","North America",31-40,1
+81,Tablet,"United States","North America",31-40,1
+2313,Tablet,Mexico,"North America",31-40,0
+563,Tablet,"United States","North America",31-40,1
+68,Tablet,Mexico,"North America",31-40,1
+1548,Tablet,Mexico,"North America",31-40,0
+949,Tablet,Spain,Europe,31-40,1
+950,Tablet,Italy,Europe,31-40,1
+1549,Tablet,Spain,Europe,31-40,0
+425,Tablet,Germany,Europe,31-40,1
+56,Tablet,France,Europe,31-40,1
+421,Tablet,"United States","North America",31-40,1
+2326,Tablet,France,Europe,31-40,0
+407,Tablet,Brazil,"South America",31-40,1
+1552,Tablet,Spain,Europe,31-40,0
+717,Tablet,Canada,"North America",31-40,1
+719,Tablet,Australia,Australia,31-40,1
+2338,Tablet,"United Kingdom",Europe,31-40,0
+1553,Tablet,"United States","North America",31-40,0
+720,Tablet,Germany,Europe,31-40,1
+1968,Tablet,Mexico,"North America",31-40,0
+721,Tablet,France,Europe,31-40,1
+48,Tablet,Mexico,"North America",31-40,1
+2372,Tablet,Brazil,"South America",31-40,0
+1975,Tablet,"United States","North America",31-40,0
+1010,Tablet,Italy,Europe,31-40,0
+1985,Tablet,Italy,Europe,31-40,0
+2382,Tablet,Canada,"North America",31-40,0
+393,Tablet,"United Kingdom",Europe,31-40,1
+2383,Tablet,"United Kingdom",Europe,31-40,0
+651,Tablet,Spain,Europe,31-40,1
+1037,Tablet,Brazil,"South America",31-40,1
+387,Tablet,Brazil,"South America",31-40,1
+36,Tablet,France,Europe,31-40,1
+32,Tablet,Canada,"North America",31-40,1
+372,Tablet,Canada,"North America",31-40,1
+1293,Tablet,Mexico,"North America",31-40,0
+24,Tablet,Australia,Australia,31-40,1
+2023,Tablet,"United Kingdom",Europe,31-40,0
+629,Tablet,Australia,Australia,31-40,1
+817,Tablet,Spain,Europe,31-40,1
+16,Tablet,France,Europe,31-40,1
+355,Tablet,Germany,Europe,31-40,1
+734,Tablet,Australia,Australia,31-40,1
+1150,Tablet,"United States","North America",31-40,0
+2,Tablet,Canada,"North America",31-40,0
+1166,Tablet,"United States","North America",31-40,0
+583,Tablet,"United Kingdom",Europe,31-40,1
+338,Tablet,Mexico,"North America",31-40,1
+829,Tablet,Spain,Europe,31-40,1
+2452,Tablet,Spain,Europe,31-40,0
+625,Tablet,"United States","North America",31-40,1
+332,Tablet,Canada,"North America",31-40,1
+1236,Tablet,Spain,Europe,31-40,0
+1689,Tablet,Canada,"North America",31-40,0
+324,Tablet,Australia,Australia,31-40,1
+744,Tablet,Canada,"North America",31-40,1
+2455,Tablet,"United States","North America",31-40,0
+663,Tablet,Mexico,"North America",31-40,1
+579,Tablet,Canada,"North America",31-40,1
+1756,Tablet,France,Europe,41-50,0
+296,Tablet,France,Europe,41-50,1
+185,Tablet,Germany,Europe,41-50,1
+672,Tablet,Canada,"North America",41-50,1
+544,Tablet,Spain,Europe,41-50,1
+576,Tablet,Spain,Europe,41-50,1
+527,Tablet,Brazil,"South America",41-50,1
+867,Tablet,Canada,"North America",41-50,1
+1792,Tablet,Spain,Europe,41-50,0
+871,Tablet,France,Europe,41-50,1
+525,Tablet,Germany,Europe,41-50,1
+1799,Tablet,Australia,Australia,41-50,0
+876,Tablet,Spain,Europe,41-50,1
+879,Tablet,Canada,"North America",41-50,1
+884,Tablet,Australia,Australia,41-50,1
+682,Tablet,Spain,Europe,41-50,1
+513,Tablet,Mexico,"North America",41-50,1
+1364,Tablet,Australia,Australia,41-50,0
+510,Tablet,Germany,Europe,41-50,1
+508,Tablet,"United Kingdom",Europe,41-50,1
+507,Tablet,Canada,"North America",41-50,1
+489,Tablet,Spain,Europe,41-50,1
+471,Tablet,"United States","North America",41-50,1
+1883,Tablet,"United States","North America",41-50,0
+469,Tablet,Spain,Europe,41-50,1
+459,Tablet,Spain,Europe,41-50,1
+1898,Tablet,"United States","North America",41-50,0
+456,Tablet,France,Europe,41-50,1
+799,Tablet,Spain,Europe,41-50,1
+448,Tablet,Mexico,"North America",41-50,1
+445,Tablet,Germany,Europe,41-50,1
+440,Tablet,Italy,Europe,41-50,1
+960,Tablet,Germany,Europe,41-50,1
+411,Tablet,"United States","North America",41-50,1
+1932,Tablet,Canada,"North America",41-50,0
+1965,Tablet,Germany,Europe,41-50,0
+1966,Tablet,France,Europe,41-50,0
+1972,Tablet,Spain,Europe,41-50,0
+405,Tablet,Germany,Europe,41-50,1
+572,Tablet,Brazil,"South America",41-50,1
+1989,Tablet,Canada,"North America",41-50,0
+386,Tablet,France,Europe,41-50,1
+373,Tablet,"United Kingdom",Europe,41-50,1
+360,Tablet,Italy,Europe,41-50,1
+1089,Tablet,Canada,"North America",41-50,1
+732,Tablet,Canada,"North America",41-50,1
+1177,Tablet,Spain,Europe,41-50,0
+737,Tablet,Brazil,"South America",41-50,1
+335,Tablet,Germany,Europe,41-50,1
+328,Tablet,Mexico,"North America",41-50,1
+317,Tablet,Brazil,"South America",41-50,1
+306,Tablet,France,Europe,41-50,1
+303,Tablet,"United Kingdom",Europe,41-50,1
+302,Tablet,Canada,"North America",41-50,1
+1289,Tablet,Australia,Australia,41-50,0
+298,Tablet,Mexico,"North America",41-50,1
+88,Tablet,Mexico,"North America",41-50,1
+2176,Tablet,France,Europe,41-50,0
+2177,Tablet,Brazil,"South America",41-50,0
+266,Tablet,France,Europe,41-50,1
+78,Tablet,Mexico,"North America",41-50,1
+2182,Tablet,Spain,Europe,41-50,0
+807,Tablet,Canada,"North America",41-50,1
+60,Tablet,Italy,Europe,41-50,0
+820,Tablet,"United States","North America",41-50,1
+655,Tablet,"United States","North America",41-50,1
+169,Tablet,Spain,Europe,41-50,1
+606,Tablet,Spain,Europe,41-50,1
+237,Tablet,Brazil,"South America",41-50,1
+165,Tablet,Germany,Europe,41-50,1
+164,Tablet,Australia,Australia,41-50,1
+161,Tablet,"United States","North America",41-50,1
+1577,Tablet,Brazil,"South America",41-50,0
+1414,Tablet,Spain,Europe,41-50,0
+2109,Tablet,Canada,"North America",41-50,0
+253,Tablet,"United Kingdom",Europe,41-50,1
+40,Tablet,Italy,Europe,41-50,0
+2130,Tablet,Germany,Europe,41-50,0
+130,Tablet,Italy,Europe,41-50,1
+2113,Tablet,"United Kingdom",Europe,41-50,0
+1617,Tablet,Canada,"North America",41-50,0
+2392,Tablet,Spain,Europe,41-50,0
+788,Tablet,"United States","North America",41-50,1
+2248,Tablet,"United Kingdom",Europe,41-50,0
+80,Tablet,Italy,Europe,41-50,0
+12,Tablet,Canada,"North America",41-50,1
+7,Tablet,Brazil,"South America",41-50,1
+605,Tablet,Italy,Europe,41-50,1
+1646,Tablet,"United States","North America",41-50,0
+603,Tablet,Mexico,"North America",41-50,1
+2150,Tablet,Italy,Europe,41-50,0
+1655,Tablet,Italy,Europe,41-50,0
+1660,Tablet,"United States","North America",41-50,0
+1667,Tablet,Brazil,"South America",41-50,0
+2114,Tablet,Australia,Australia,41-50,0
+580,Tablet,"United States","North America",41-50,1
+662,Tablet,Brazil,"South America",41-50,1
+200,Tablet,Italy,Europe,41-50,1
+1688,Tablet,"United States","North America",41-50,0
+2162,Tablet,Brazil,"South America",41-50,0
+106,Tablet,France,Europe,41-50,1
+101,Tablet,"United States","North America",41-50,1
+1692,Tablet,Canada,"North America",41-50,0
+1693,Tablet,"United Kingdom",Europe,41-50,0
+1697,Tablet,Brazil,"South America",41-50,0
+559,Tablet,Spain,Europe,51-60,1
+671,Tablet,"United States","North America",51-60,1
+859,Tablet,Spain,Europe,51-60,1
+637,Tablet,Spain,Europe,51-60,1
+454,Tablet,Australia,Australia,51-60,1
+398,Tablet,Mexico,"North America",51-60,1
+2393,Tablet,"United States","North America",51-60,0
+1584,Tablet,Canada,"North America",51-60,0
+492,Tablet,Canada,"North America",51-60,1
