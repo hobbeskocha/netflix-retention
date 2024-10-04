@@ -1,6 +1,7 @@
 # Improving Customer Retention for Netflix
 
 ## Overview
+
 ![streaming](artifacts/streaming.png)
 
 This is a data analysis project (focussed on MySQL and Power BI) conducted by [Ayush Shrestha](https://www.linkedin.com/in/ayush-yoshi-shrestha/), as part of a team project for BUS AN 512 (Data Management and Visualization) for the University of Washington's Master of Science in Business Analytics program. Other team contributors include
@@ -39,11 +40,17 @@ This approach streamlined the setup process and ensured the data was properly st
 
 ## EDA
 
-Exploratory Data Analysis (EDA) was conducted using MySQL to examine the distribution of customers across available factors, such as:
+Exploratory Data Analysis (EDA) was conducted using MySQL and visualized in Power BI to examine the distribution of customers across available factors, such as:
 
 - geographic region
 - subscription plan
 - preferred device type
+
+For example, the chart below illustrates that, across the four recorded device types, Europe represents the largest market by customer count, closely followed by North America.
+![Device Continent Customers](artifacts/customerCounts-device-continent.png)
+
+The subsequent visualization further supports this observation, highlighting that the majority of Netflix's customer base falls within the 31–50 age range.
+![Active Customer Continent Age](artifacts/activeCustomers-continent-age.png)
 
 Additionally, descriptive statistics, including ranges and averages, were calculated for various segments to assess data spread and central tendencies. This preliminary analysis provided a comprehensive overview of the dataset, positioning us to proceed with an in-depth analysis of customer retention rates.
 
