@@ -46,10 +46,10 @@ Exploratory Data Analysis (EDA) was conducted using MySQL and visualized in Powe
 - subscription plan
 - preferred device type
 
-For example, the chart below illustrates that, across the four recorded device types, Europe represents the largest market by customer count, closely followed by North America.
+For example, the chart below illustrates that, across the four recorded device types, Europe represents the largest market by customer count. This is closely followed by North America.
 ![Device Continent Customers](artifacts/customerCounts-device-continent.png)
 
-The following visualization further supports this observation, highlighting that the majority of Netflix's customer base falls within the 31–50 age range.
+The following visualization further supports this observation. It highlights that within these major markets, the majority of Netflix's customer base falls within the 31–50 age range.
 ![Active Customer Continent Age](artifacts/activeCustomers-continent-age.png)
 
 Additionally, descriptive statistics, including ranges and averages, were calculated for various segments to assess data spread and central tendencies. This preliminary analysis provided a comprehensive overview of the dataset, positioning us to proceed with an in-depth analysis of customer retention rates.
